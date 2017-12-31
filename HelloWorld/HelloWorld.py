@@ -5,6 +5,6 @@ weekdays = "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "
 
 print(''.join(weekdays))
 
-num = 6 * 6 * 6
+num = 6 * 6 * 12
 
 print(num)
